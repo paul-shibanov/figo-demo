@@ -21,7 +21,6 @@
   },
   "homepage": "https://github.com/paul-shibanov/figo-demo#readme",
   "dependencies": {
-    "config": "^1.28.1",
     "figo": "github:figo-connect/node-figo#bankathon"
   }
 }
