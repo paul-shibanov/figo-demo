@@ -1,0 +1,20 @@
+{
+  "app": {
+    "client_id": "DKaM2Qu9uSICMQxJGRgwD4g",
+    "client_secret": "bankathon2017berlin"
+  },
+  "user": {
+    "name": "{enter your name}",
+    "email": "{enter your email}",
+    "password": "{create a password}"
+  },
+  "account": {
+    "country": "de",
+    "credentials": [
+      "demo",
+      "demo"
+    ],
+    "bank_code": "90090042",
+    "save_pin": false
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "name": "figo-demo",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paul-shibanov/figo-demo.git"
+  },
+  "keywords": [
+    "figo"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paul-shibanov/figo-demo/issues"
+  },
+  "homepage": "https://github.com/paul-shibanov/figo-demo#readme",
+  "dependencies": {
+    "config": "^1.28.1",
+    "figo": "github:figo-connect/node-figo#bankathon"
+  }
+}
